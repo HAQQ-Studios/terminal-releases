@@ -7,9 +7,9 @@
     "version": "1.1.4"
   },
   "ios": {
-    "build": 6,
-    "notes": "Trading shows what your open trades are worth in SOL. Strategies moves today's PnL on to the new day at midnight UTC.",
+    "build": 7,
+    "notes": "Trading now shows what your open trades are worth in SOL, under the Open count.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.1.3"
+    "version": "1.1.4"
   }
 }
