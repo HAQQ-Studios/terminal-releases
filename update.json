@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 4,
-    "notes": "Update check: nothing new in this one. If you're reading this, in-app updates work.",
-    "sha256": "29f55152f227c821cfd3f0a0f11657dc0564ec1a13659b9925156b10d3f16bdb",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-4/HAQQ-Terminal-1.1.1.apk",
-    "version": "1.1.1"
+    "build": 7,
+    "notes": "Strategies moves today's PnL on to the new day at midnight UTC. Admins see what open trades are worth in SOL on Trading.",
+    "sha256": "512876a23a788c0160e1339550bd5ba339a648bab9ac39ecc3cf0e8e47038844",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-7/HAQQ-Terminal-1.1.4.apk",
+    "version": "1.1.4"
   },
   "ios": {
     "build": 6,
