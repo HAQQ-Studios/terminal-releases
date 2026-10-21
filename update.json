@@ -7,9 +7,9 @@
     "version": "1.1.1"
   },
   "ios": {
-    "build": 3,
-    "notes": "Calendar fixed on iOS 18, tap any amount to switch SOL and USD, sweep settings on Payouts.",
+    "build": 6,
+    "notes": "Strategies now moves today's net PnL on to the new day at midnight UTC.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.1"
+    "version": "1.1.3"
   }
 }
