@@ -8,7 +8,7 @@
   },
   "ios": {
     "build": 6,
-    "notes": "Strategies now moves today's net PnL on to the new day at midnight UTC.",
+    "notes": "Trading shows what your open trades are worth in SOL. Strategies moves today's PnL on to the new day at midnight UTC.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
     "version": "1.1.3"
   }
