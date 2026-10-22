@@ -7,9 +7,9 @@
     "version": "1.1.4"
   },
   "ios": {
-    "build": 8,
-    "notes": "Strategies open again: the app reads the terminal's new settings, which no longer have separate buy and sell tips.",
+    "build": 9,
+    "notes": "Sweeps get a broomstick. Payout alerts show the dollar value next to SOL, the sweep number and the SOL price, with the HAQQ Terminal logo. A sweep's page shows your payout in SOL and dollars, with more in Details.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.1.5"
+    "version": "1.1.6"
   }
 }
