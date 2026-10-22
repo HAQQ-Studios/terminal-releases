@@ -7,9 +7,9 @@
     "version": "1.1.4"
   },
   "ios": {
-    "build": 15,
-    "notes": "Sweep details are tidier: no members-paid count or share percentage.",
+    "build": 16,
+    "notes": "The terminal can now see when you use the app, so the team page shows app activity.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.2"
+    "version": "1.2.3"
   }
 }
