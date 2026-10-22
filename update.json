@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 7,
-    "notes": "Strategies moves today's PnL on to the new day at midnight UTC. Admins see what open trades are worth in SOL on Trading.",
-    "sha256": "512876a23a788c0160e1339550bd5ba339a648bab9ac39ecc3cf0e8e47038844",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-7/HAQQ-Terminal-1.1.4.apk",
-    "version": "1.1.4"
+    "build": 16,
+    "notes": "Big update: Strategies open again; sweeps get a broomstick; payout alerts show dollars next to SOL with 29 new headlines; your own Mr. Mev picture in Settings; Check for updates in Settings; tidier sweep details; and the terminal can now see your app activity.",
+    "sha256": "2e271cd991cf202d0a8f6c61637a79cd29b53b13f9d3309dd1c3fb2bb374160b",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-16/HAQQ-Terminal-1.2.3.apk",
+    "version": "1.2.3"
   },
   "ios": {
     "build": 16,
