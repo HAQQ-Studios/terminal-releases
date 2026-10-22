@@ -7,9 +7,9 @@
     "version": "1.2.3"
   },
   "ios": {
-    "build": 16,
-    "notes": "The terminal can now see when you use the app, so the team page shows app activity.",
+    "build": 17,
+    "notes": "Big update: sweeps get a broomstick; payout alerts show dollars next to SOL with new headlines; your own Mr. Mev picture and Check for updates in Settings; tidier sweep details; and the terminal can see your app activity.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.3"
+    "version": "1.2.4"
   }
 }
