@@ -7,9 +7,9 @@
     "version": "1.1.4"
   },
   "ios": {
-    "build": 12,
-    "notes": "Test notifications now send a demo sweep with dollar amounts, so you can see exactly how a payout alert looks.",
+    "build": 13,
+    "notes": "Every account gets its own Mr. Mev picture in Settings, and Settings has a Check for updates button.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.1.9"
+    "version": "1.2.0"
   }
 }
