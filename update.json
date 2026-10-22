@@ -7,9 +7,9 @@
     "version": "1.1.4"
   },
   "ios": {
-    "build": 7,
-    "notes": "Trading now shows what your open trades are worth in SOL, under the Open count.",
+    "build": 8,
+    "notes": "Strategies open again: the app reads the terminal's new settings, which no longer have separate buy and sell tips.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.1.4"
+    "version": "1.1.5"
   }
 }
