@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 16,
-    "notes": "Big update: Strategies open again; sweeps get a broomstick; payout alerts show dollars next to SOL with 29 new headlines; your own Mr. Mev picture in Settings; Check for updates in Settings; tidier sweep details; and the terminal can now see your app activity.",
-    "sha256": "2e271cd991cf202d0a8f6c61637a79cd29b53b13f9d3309dd1c3fb2bb374160b",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-16/HAQQ-Terminal-1.2.3.apk",
-    "version": "1.2.3"
+    "build": 19,
+    "notes": "Payouts chart shows all six months, matching the web. Fixed Mr. Mev profile pictures. Check for updates in Settings.",
+    "sha256": "3bd19765fab8cf975046ff3fd0716283ad93ae2d3e80d46ff8475ff7af757649",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-19/HAQQ-Terminal-1.2.6.apk",
+    "version": "1.2.6"
   },
   "ios": {
     "build": 19,
