@@ -7,9 +7,9 @@
     "version": "1.2.8"
   },
   "ios": {
-    "build": 22,
-    "notes": "New Expenses section on the Payouts tab, the SOL price for investors, a chart that never sits empty, and a steadier live dot.",
+    "build": 23,
+    "notes": "Fixes 'Expenses unavailable': the Expenses section now reads card payments.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.9"
+    "version": "1.2.10"
   }
 }
