@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 19,
-    "notes": "Payouts chart shows all six months, matching the web. Fixed Mr. Mev profile pictures. Check for updates in Settings.",
-    "sha256": "3bd19765fab8cf975046ff3fd0716283ad93ae2d3e80d46ff8475ff7af757649",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-19/HAQQ-Terminal-1.2.6.apk",
-    "version": "1.2.6"
+    "build": 20,
+    "notes": "Investors now see how much SOL is in open positions on Trading.",
+    "sha256": "1658706b7135646b0b53ad161f13f9665983da18041c8cb9f94f4d2603bd4064",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-20/HAQQ-Terminal-1.2.7.apk",
+    "version": "1.2.7"
   },
   "ios": {
     "build": 19,
