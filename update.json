@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 26,
-    "notes": "The open trades' SOL value on the Trading tab now updates as trades open and close.",
-    "sha256": "cbac8d8a80b47df75db29fe41126fc9b3eb6cb393510454bc40af8d035c816f6",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-26/HAQQ-Terminal-1.2.12.apk",
-    "version": "1.2.12"
+    "build": 27,
+    "notes": "The open trades count and their SOL value on the Trading tab now change together, new trades included.",
+    "sha256": "fd017fa1f77cce7ded100c43ebacd1afacf60a00449a9aeb9ef35785d3c0d3bd",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-27/HAQQ-Terminal-1.2.13.apk",
+    "version": "1.2.13"
   },
   "ios": {
     "build": 26,
