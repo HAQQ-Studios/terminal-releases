@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 20,
-    "notes": "Investors now see how much SOL is in open positions on Trading.",
-    "sha256": "1658706b7135646b0b53ad161f13f9665983da18041c8cb9f94f4d2603bd4064",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-20/HAQQ-Terminal-1.2.7.apk",
-    "version": "1.2.7"
+    "build": 21,
+    "notes": "Fixes the open positions SOL amount for investors.",
+    "sha256": "29161f3b164c23e204480f70be7fe808465c65f64b5f72c47b3d1d3a700974e3",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-21/HAQQ-Terminal-1.2.8.apk",
+    "version": "1.2.8"
   },
   "ios": {
     "build": 20,
