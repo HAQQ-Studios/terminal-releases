@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 21,
-    "notes": "Fixes the open positions SOL amount for investors.",
-    "sha256": "29161f3b164c23e204480f70be7fe808465c65f64b5f72c47b3d1d3a700974e3",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-21/HAQQ-Terminal-1.2.8.apk",
-    "version": "1.2.8"
+    "build": 24,
+    "notes": "New Expenses section on the Payouts tab with upcoming monthly bills, the SOL price for investors, a chart that never sits empty, and a steadier live dot.",
+    "sha256": "16fb769c217f111e22503f5a489318973ea16b3b20b75a84f514db0f1d370add",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-24/HAQQ-Terminal-1.2.11.apk",
+    "version": "1.2.11"
   },
   "ios": {
     "build": 23,
