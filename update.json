@@ -7,9 +7,9 @@
     "version": "1.2.7"
   },
   "ios": {
-    "build": 19,
-    "notes": "Payouts chart shows all six months, matching the web",
+    "build": 20,
+    "notes": "Investors now see how much SOL is in open positions on Trading.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.6"
+    "version": "1.2.7"
   }
 }
