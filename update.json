@@ -7,9 +7,9 @@
     "version": "1.2.13"
   },
   "ios": {
-    "build": 26,
-    "notes": "The open trades' SOL value on the Trading tab now updates as trades open and close.",
+    "build": 27,
+    "notes": "The open trades count and their SOL value on the Trading tab now change together, new trades included.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.12"
+    "version": "1.2.13"
   }
 }
