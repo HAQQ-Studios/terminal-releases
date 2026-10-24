@@ -7,9 +7,9 @@
     "version": "1.2.11"
   },
   "ios": {
-    "build": 24,
-    "notes": "Monthly bills now show as Upcoming bills, with the next due date, the expected amount and a countdown.",
+    "build": 26,
+    "notes": "The open trades' SOL value on the Trading tab now updates as trades open and close.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.11"
+    "version": "1.2.12"
   }
 }
