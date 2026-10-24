@@ -7,9 +7,9 @@
     "version": "1.2.11"
   },
   "ios": {
-    "build": 23,
-    "notes": "Fixes 'Expenses unavailable': the Expenses section now reads card payments.",
+    "build": 24,
+    "notes": "Monthly bills now show as Upcoming bills, with the next due date, the expected amount and a countdown.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.10"
+    "version": "1.2.11"
   }
 }
