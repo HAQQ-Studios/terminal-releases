@@ -7,9 +7,9 @@
     "version": "1.2.8"
   },
   "ios": {
-    "build": 21,
-    "notes": "Fixes the open positions SOL amount for investors.",
+    "build": 22,
+    "notes": "New Expenses section on the Payouts tab, the SOL price for investors, a chart that never sits empty, and a steadier live dot.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.8"
+    "version": "1.2.9"
   }
 }
