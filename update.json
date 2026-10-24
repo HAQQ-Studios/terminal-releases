@@ -7,9 +7,9 @@
     "version": "1.2.8"
   },
   "ios": {
-    "build": 20,
-    "notes": "Investors now see how much SOL is in open positions on Trading.",
+    "build": 21,
+    "notes": "Fixes the open positions SOL amount for investors.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.7"
+    "version": "1.2.8"
   }
 }
