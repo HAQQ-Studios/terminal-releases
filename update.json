@@ -7,9 +7,9 @@
     "version": "1.2.14"
   },
   "ios": {
-    "build": 28,
-    "notes": "Open trades on the Trading tab now show the SOL they went in with, updating live with the count.",
+    "build": 29,
+    "notes": "Charts: the peak gets the web's dashed line, scrubbing keeps the % showing, and a strategy's chart can open any dates, Yesterday included.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.14"
+    "version": "1.2.15"
   }
 }
