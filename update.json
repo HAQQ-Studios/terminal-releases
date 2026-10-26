@@ -7,9 +7,9 @@
     "version": "1.2.16"
   },
   "ios": {
-    "build": 29,
-    "notes": "Charts: the peak gets the web's dashed line, scrubbing keeps the % showing, and a strategy's chart can open any dates, Yesterday included.",
+    "build": 30,
+    "notes": "Trades show each token's picture, as the website does, blurred when flagged.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.15"
+    "version": "1.2.16"
   }
 }
