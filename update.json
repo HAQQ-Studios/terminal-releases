@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 30,
-    "notes": "Charts get the web's dashed peak line and keep the % while scrubbing, strategies open any dates (Yesterday included), and trades show each token's picture.",
-    "sha256": "7c6b4d284e50c27d2d98922e4af52e446f70ca3b997c8c4e399d889d847d303c",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-30/HAQQ-Terminal-1.2.16.apk",
-    "version": "1.2.16"
+    "build": 31,
+    "notes": "The loss guard card lists the trades the guard actually counted, and the chart's peak label is cleaner.",
+    "sha256": "bafbabf29e04d8577c644e7ea4af34c714c0186a0ed134d65e9da5f1008fb999",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-31/HAQQ-Terminal-1.2.17.apk",
+    "version": "1.2.17"
   },
   "ios": {
     "build": 31,
