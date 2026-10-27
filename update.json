@@ -7,9 +7,9 @@
     "version": "1.2.16"
   },
   "ios": {
-    "build": 30,
-    "notes": "Trades show each token's picture, as the website does, blurred when flagged.",
+    "build": 31,
+    "notes": "The loss guard card lists the trades the guard actually counted, and the chart's peak label is cleaner.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.16"
+    "version": "1.2.17"
   }
 }
