@@ -7,9 +7,9 @@
     "version": "1.2.18"
   },
   "ios": {
-    "build": 32,
-    "notes": "Calendar days no longer add yesterday to today. The daily report alert now always carries the day's figures. Best and toughest hour show the right hour.",
+    "build": 33,
+    "notes": "Sweep alerts now shuffle through every headline before any repeats, and never show the same one twice in a row.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.18"
+    "version": "1.2.19"
   }
 }
