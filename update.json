@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 31,
-    "notes": "The loss guard card lists the trades the guard actually counted, and the chart's peak label is cleaner.",
-    "sha256": "bafbabf29e04d8577c644e7ea4af34c714c0186a0ed134d65e9da5f1008fb999",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-31/HAQQ-Terminal-1.2.17.apk",
-    "version": "1.2.17"
+    "build": 32,
+    "notes": "Calendar days no longer add yesterday to today. The daily report alert now always carries the day's figures. Best and toughest hour show the right hour.",
+    "sha256": "88709e9784ee39ee7ae66ed7653976e5abfa07c9f1776609429bb7b7ef4d75f1",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-32/HAQQ-Terminal-1.2.18.apk",
+    "version": "1.2.18"
   },
   "ios": {
     "build": 31,
