@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 32,
-    "notes": "Calendar days no longer add yesterday to today. The daily report alert now always carries the day's figures. Best and toughest hour show the right hour.",
-    "sha256": "88709e9784ee39ee7ae66ed7653976e5abfa07c9f1776609429bb7b7ef4d75f1",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-32/HAQQ-Terminal-1.2.18.apk",
-    "version": "1.2.18"
+    "build": 34,
+    "notes": "Sweep alerts now shuffle through every headline before any repeats. Loss guard trades now read in order, each with a running total of the loss so far.",
+    "sha256": "0f515831b52ae45d343f9e11b9257440036bda15783864aefed2477ed026816d",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-34/HAQQ-Terminal-1.2.20.apk",
+    "version": "1.2.20"
   },
   "ios": {
     "build": 34,
