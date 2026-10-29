@@ -7,9 +7,9 @@
     "version": "1.2.18"
   },
   "ios": {
-    "build": 33,
-    "notes": "Sweep alerts now shuffle through every headline before any repeats, and never show the same one twice in a row.",
+    "build": 34,
+    "notes": "Loss guard trades now read in order, each with a running total of the loss so far.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.19"
+    "version": "1.2.20"
   }
 }
