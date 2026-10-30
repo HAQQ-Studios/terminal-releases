@@ -5,9 +5,10 @@
       "version": "1.2.26",
       "date": "2026-10-30",
       "platforms": [
-        "android"
+        "android",
+        "ios"
       ],
-      "notes": "New in Settings: What's new, a full list of every update and what it changed. Tap Show all on this banner to read the whole note."
+      "notes": "New in Settings: What's new, a full list of every update and what it changed."
     },
     {
       "build": 39,
