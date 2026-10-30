@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 34,
-    "notes": "Sweep alerts now shuffle through every headline before any repeats. Loss guard trades now read in order, each with a running total of the loss so far.",
-    "sha256": "0f515831b52ae45d343f9e11b9257440036bda15783864aefed2477ed026816d",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-34/HAQQ-Terminal-1.2.20.apk",
-    "version": "1.2.20"
+    "build": 35,
+    "notes": "Every phone now shows the same headline for each sweep, shuffled so none repeats until all have been used.",
+    "sha256": "8cffd67b48a78f81e278424a18f01f3cf6b422e8a3be5d2089d097c83e434914",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-35/HAQQ-Terminal-1.2.21.apk",
+    "version": "1.2.21"
   },
   "ios": {
     "build": 34,
