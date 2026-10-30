@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 36,
-    "notes": "Pull to refresh on any tab now updates all of them together, so the wallet, next sweep and PnL always match. Tabs also catch up when you come back to the app.",
-    "sha256": "07dc7bf8ff6b6fd8437c39a40365416fc975c9d8d8763fe78727d6dca818dfd9",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-36/HAQQ-Terminal-1.2.22.apk",
-    "version": "1.2.22"
+    "build": 37,
+    "notes": "All four tabs refresh together from one pull, with fewer requests to the server: repeated reads are shared and Payouts no longer re-downloads its history.",
+    "sha256": "0fbe6ce8f29e211607e9c857b7600751dba28188f03f972cadf2fac03fc77852",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-37/HAQQ-Terminal-1.2.23.apk",
+    "version": "1.2.23"
   },
   "ios": {
     "build": 35,
