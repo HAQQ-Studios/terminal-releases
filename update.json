@@ -7,9 +7,9 @@
     "version": "1.2.26"
   },
   "ios": {
-    "build": 39,
-    "notes": "Figures read straight after a sell, sweep or bot command are always fresh.",
+    "build": 40,
+    "notes": "New in Settings: What's new, a full list of every update and what it changed.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.25"
+    "version": "1.2.26"
   }
 }
