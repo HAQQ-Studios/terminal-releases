@@ -7,9 +7,9 @@
     "version": "1.2.23"
   },
   "ios": {
-    "build": 35,
-    "notes": "Every phone now shows the same headline for each sweep, shuffled so none repeats until all have been used.",
+    "build": 37,
+    "notes": "All four tabs refresh together from one pull, with fewer requests to the server: repeated reads are shared and Payouts no longer re-downloads its history.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.21"
+    "version": "1.2.23"
   }
 }
