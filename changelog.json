@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "build": 40,
+      "version": "1.2.26",
+      "date": "2026-10-30",
+      "platforms": [
+        "android"
+      ],
+      "notes": "New in Settings: What's new, a full list of every update and what it changed. Tap Show all on this banner to read the whole note."
+    },
+    {
       "build": 39,
       "version": "1.2.25",
       "date": "2026-10-30",
