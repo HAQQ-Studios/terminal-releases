@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 38,
-    "notes": "Overview's Net PnL now matches Trading and the web: it includes the cost of failed transactions no single strategy owns.",
-    "sha256": "a70dfe730c899d41d419564c03bfc4befd04da9bffe36d32aa579adc391f2feb",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-38/HAQQ-Terminal-1.2.24.apk",
-    "version": "1.2.24"
+    "build": 40,
+    "notes": "New in Settings: What's new, a full list of every update and what it changed. Tap Show all on this banner to read the whole note.",
+    "sha256": "d094f6c965c6fc856a9f0480f979ceb3991bf7ec1b3a1bcca1230b1895edaab6",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-40/HAQQ-Terminal-1.2.26.apk",
+    "version": "1.2.26"
   },
   "ios": {
     "build": 39,
