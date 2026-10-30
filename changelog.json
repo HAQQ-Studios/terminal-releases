@@ -1,0 +1,326 @@
+{
+  "releases": [
+    {
+      "build": 38,
+      "version": "1.2.24",
+      "date": "2026-10-30",
+      "notes": "Overview's Net PnL now matches Trading and the web: it includes the cost of failed transactions no single strategy owns.",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "build": 37,
+      "version": "1.2.23",
+      "date": "2026-10-30",
+      "notes": "All four tabs refresh together from one pull, with fewer requests to the server: repeated reads are shared and Payouts no longer re-downloads its history.",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "build": 36,
+      "version": "1.2.22",
+      "date": "2026-10-30",
+      "notes": "Pull to refresh on any tab now updates all of them together, so the wallet, next sweep and PnL always match. Tabs also catch up when you come back to the app.",
+      "platforms": [
+        "android"
+      ]
+    },
+    {
+      "build": 35,
+      "version": "1.2.21",
+      "date": "2026-10-30",
+      "notes": "Every phone now shows the same headline for each sweep, shuffled so none repeats until all have been used.",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "build": 34,
+      "version": "1.2.20",
+      "date": "2026-10-30",
+      "notes": "Loss guard trades now read in order, each with a running total of the loss so far.",
+      "platforms": [
+        "ios",
+        "android"
+      ]
+    },
+    {
+      "build": 33,
+      "version": "1.2.19",
+      "date": "2026-10-30",
+      "notes": "Sweep alerts now shuffle through every headline before any repeats, and never show the same one twice in a row.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 32,
+      "version": "1.2.18",
+      "date": "2026-10-29",
+      "notes": "Calendar days no longer add yesterday to today. The daily report alert now always carries the day's figures. Best and toughest hour show the right hour.",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "build": 31,
+      "version": "1.2.17",
+      "date": "2026-10-27",
+      "notes": "The loss guard card lists the trades the guard actually counted, and the chart's peak label is cleaner.",
+      "platforms": [
+        "ios",
+        "android"
+      ]
+    },
+    {
+      "build": 30,
+      "version": "1.2.16",
+      "date": "2026-10-26",
+      "notes": "Charts get the web's dashed peak line and keep the % while scrubbing, strategies open any dates (Yesterday included), and trades show each token's picture.",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "build": 29,
+      "version": "1.2.15",
+      "date": "2026-10-26",
+      "notes": "Charts: the peak gets the web's dashed line, scrubbing keeps the % showing, and a strategy's chart can open any dates, Yesterday included.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 28,
+      "version": "1.2.14",
+      "date": "2026-10-24",
+      "notes": "Open trades on the Trading tab now show the SOL they went in with, updating live with the count.",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "build": 27,
+      "version": "1.2.13",
+      "date": "2026-10-24",
+      "notes": "The open trades count and their SOL value on the Trading tab now change together, new trades included.",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "build": 26,
+      "version": "1.2.12",
+      "date": "2026-10-24",
+      "notes": "The open trades' SOL value on the Trading tab now updates as trades open and close.",
+      "platforms": [
+        "ios",
+        "android"
+      ]
+    },
+    {
+      "build": 24,
+      "version": "1.2.11",
+      "date": "2026-10-24",
+      "notes": "New Expenses section on the Payouts tab with upcoming monthly bills, the SOL price for investors, a chart that never sits empty, and a steadier live dot.",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "build": 23,
+      "version": "1.2.10",
+      "date": "2026-10-24",
+      "notes": "Fixes 'Expenses unavailable': the Expenses section now reads card payments.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 22,
+      "version": "1.2.9",
+      "date": "2026-10-24",
+      "notes": "New Expenses section on the Payouts tab, the SOL price for investors, a chart that never sits empty, and a steadier live dot.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 21,
+      "version": "1.2.8",
+      "date": "2026-10-24",
+      "notes": "Fixes the open positions SOL amount for investors.",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "build": 20,
+      "version": "1.2.7",
+      "date": "2026-10-24",
+      "notes": "Investors now see how much SOL is in open positions on Trading.",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "build": 19,
+      "version": "1.2.6",
+      "date": "2026-10-24",
+      "notes": "Payouts chart shows all six months, matching the web",
+      "platforms": [
+        "ios",
+        "android"
+      ]
+    },
+    {
+      "build": 18,
+      "version": "1.2.5",
+      "date": "2026-10-22",
+      "notes": "Big update: sweeps get a broomstick; payout alerts show dollars next to SOL with new headlines; your own Mr. Mev picture and Check for updates in Settings; tidier sweep details; and the terminal can see your app activity.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 17,
+      "version": "1.2.4",
+      "date": "2026-10-22",
+      "notes": "Big update: sweeps get a broomstick; payout alerts show dollars next to SOL with new headlines; your own Mr. Mev picture and Check for updates in Settings; tidier sweep details; and the terminal can see your app activity.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 16,
+      "version": "1.2.3",
+      "date": "2026-10-22",
+      "notes": "The terminal can now see when you use the app, so the team page shows app activity.",
+      "platforms": [
+        "ios",
+        "android"
+      ]
+    },
+    {
+      "build": 15,
+      "version": "1.2.2",
+      "date": "2026-10-22",
+      "notes": "Sweep details are tidier: no members-paid count or share percentage.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 14,
+      "version": "1.2.1",
+      "date": "2026-10-22",
+      "notes": "Payout alerts are cleaner: just the amounts with their dollar value, one icon, and no more \"Somebody stop this broom\".",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 13,
+      "version": "1.2.0",
+      "date": "2026-10-22",
+      "notes": "Every account gets its own Mr. Mev picture in Settings, and Settings has a Check for updates button.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 12,
+      "version": "1.1.9",
+      "date": "2026-10-22",
+      "notes": "Test notifications now send a demo sweep with dollar amounts, so you can see exactly how a payout alert looks.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 11,
+      "version": "1.1.8",
+      "date": "2026-10-22",
+      "notes": "Thirty payout headlines now, starring Mr. Mev \ud83d\udc08",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 10,
+      "version": "1.1.7",
+      "date": "2026-10-22",
+      "notes": "Payout alerts get twenty funnier headlines. The broom has spoken \ud83e\uddf9",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 9,
+      "version": "1.1.6",
+      "date": "2026-10-22",
+      "notes": "Sweeps get a broomstick. Payout alerts show the dollar value next to SOL, the sweep number and the SOL price, with the HAQQ Terminal logo. A sweep's page shows your payout in SOL and dollars, with more in Details.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 8,
+      "version": "1.1.5",
+      "date": "2026-10-22",
+      "notes": "Strategies open again: the app reads the terminal's new settings, which no longer have separate buy and sell tips.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 7,
+      "version": "1.1.4",
+      "date": "2026-10-21",
+      "notes": "Strategies moves today's PnL on to the new day at midnight UTC. Admins see what open trades are worth in SOL on Trading.",
+      "platforms": [
+        "android",
+        "ios"
+      ]
+    },
+    {
+      "build": 6,
+      "version": "1.1.3",
+      "date": "2026-10-21",
+      "notes": "Strategies now moves today's net PnL on to the new day at midnight UTC.",
+      "platforms": [
+        "ios"
+      ]
+    },
+    {
+      "build": 4,
+      "version": "1.1.1",
+      "date": "2026-10-20",
+      "notes": "Update check: nothing new in this one. If you're reading this, in-app updates work.",
+      "platforms": [
+        "android"
+      ]
+    },
+    {
+      "build": 3,
+      "version": "1.1",
+      "date": "2026-10-20",
+      "notes": "Calendar fixed on iOS 18, tap any amount to switch SOL and USD, sweep settings on Payouts.",
+      "platforms": [
+        "ios"
+      ]
+    }
+  ]
+}
