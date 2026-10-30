@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "build": 39,
+      "version": "1.2.25",
+      "date": "2026-10-30",
+      "platforms": [
+        "ios"
+      ],
+      "notes": "Figures read straight after a sell, sweep or bot command are always fresh."
+    },
+    {
       "build": 38,
       "version": "1.2.24",
       "date": "2026-10-30",
