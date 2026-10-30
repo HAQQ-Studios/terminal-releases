@@ -7,9 +7,9 @@
     "version": "1.2.24"
   },
   "ios": {
-    "build": 38,
-    "notes": "Overview's Net PnL now matches Trading and the web: it includes the cost of failed transactions no single strategy owns.",
+    "build": 39,
+    "notes": "Figures read straight after a sell, sweep or bot command are always fresh.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.24"
+    "version": "1.2.25"
   }
 }
