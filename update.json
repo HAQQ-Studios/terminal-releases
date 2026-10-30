@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 37,
-    "notes": "All four tabs refresh together from one pull, with fewer requests to the server: repeated reads are shared and Payouts no longer re-downloads its history.",
-    "sha256": "0fbe6ce8f29e211607e9c857b7600751dba28188f03f972cadf2fac03fc77852",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-37/HAQQ-Terminal-1.2.23.apk",
-    "version": "1.2.23"
+    "build": 38,
+    "notes": "Overview's Net PnL now matches Trading and the web: it includes the cost of failed transactions no single strategy owns.",
+    "sha256": "a70dfe730c899d41d419564c03bfc4befd04da9bffe36d32aa579adc391f2feb",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-38/HAQQ-Terminal-1.2.24.apk",
+    "version": "1.2.24"
   },
   "ios": {
     "build": 37,
