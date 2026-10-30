@@ -7,9 +7,9 @@
     "version": "1.2.24"
   },
   "ios": {
-    "build": 37,
-    "notes": "All four tabs refresh together from one pull, with fewer requests to the server: repeated reads are shared and Payouts no longer re-downloads its history.",
+    "build": 38,
+    "notes": "Overview's Net PnL now matches Trading and the web: it includes the cost of failed transactions no single strategy owns.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.23"
+    "version": "1.2.24"
   }
 }
