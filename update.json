@@ -7,9 +7,9 @@
     "version": "1.2.21"
   },
   "ios": {
-    "build": 34,
-    "notes": "Loss guard trades now read in order, each with a running total of the loss so far.",
+    "build": 35,
+    "notes": "Every phone now shows the same headline for each sweep, shuffled so none repeats until all have been used.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.20"
+    "version": "1.2.21"
   }
 }
