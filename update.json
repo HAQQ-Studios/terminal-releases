@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 40,
-    "notes": "New in Settings: What's new, a full list of every update and what it changed. Tap Show all on this banner to read the whole note.",
-    "sha256": "d094f6c965c6fc856a9f0480f979ceb3991bf7ec1b3a1bcca1230b1895edaab6",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-40/HAQQ-Terminal-1.2.26.apk",
-    "version": "1.2.26"
+    "build": 41,
+    "notes": "Loss guard: every trade now shows how much it bought, so you can check it against the guard's minimum buy.",
+    "sha256": "d304f1258d6fef95aff6c094266474203fa803169cec3bfbd2ed7998bce45552",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-41/HAQQ-Terminal-1.2.27.apk",
+    "version": "1.2.27"
   },
   "ios": {
     "build": 40,
