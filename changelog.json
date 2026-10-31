@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "build": 41,
+      "version": "1.2.27",
+      "date": "2026-10-31",
+      "platforms": [
+        "android"
+      ],
+      "notes": "Loss guard: every trade now shows how much it bought, so you can check it against the guard's minimum buy."
+    },
+    {
       "build": 40,
       "version": "1.2.26",
       "date": "2026-10-30",
