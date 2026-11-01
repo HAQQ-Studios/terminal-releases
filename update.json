@@ -7,9 +7,9 @@
     "version": "1.2.27"
   },
   "ios": {
-    "build": 40,
-    "notes": "New in Settings: What's new, a full list of every update and what it changed.",
+    "build": 42,
+    "notes": "Trading and the loss guard now show each coin's short address (7xKX\u2026pump) like the website. A coin traded more than once gets its own colour on every row, so repeat trades and look-alike names stand out.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.26"
+    "version": "1.2.28"
   }
 }
