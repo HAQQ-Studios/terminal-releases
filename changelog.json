@@ -5,7 +5,8 @@
       "version": "1.2.28",
       "date": "2026-11-01",
       "platforms": [
-        "ios"
+        "ios",
+        "android"
       ],
       "notes": "Trading and the loss guard now show each coin's short address (7xKX\u2026pump) like the website. A coin traded more than once gets its own colour on every row, so repeat trades and look-alike names stand out."
     },
