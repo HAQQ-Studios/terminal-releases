@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 41,
-    "notes": "Loss guard: every trade now shows how much it bought, so you can check it against the guard's minimum buy.",
-    "sha256": "d304f1258d6fef95aff6c094266474203fa803169cec3bfbd2ed7998bce45552",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-41/HAQQ-Terminal-1.2.27.apk",
-    "version": "1.2.27"
+    "build": 42,
+    "notes": "Trading and the loss guard now show each coin's short address (7xKX\u2026pump) like the website. A coin traded more than once gets its own colour on every row, so repeat trades and look-alike names stand out.",
+    "sha256": "9d2df3bb622d8e7cec947ef2444e38286010a6834eed418bbb98f951f79c57f5",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-42/HAQQ-Terminal-1.2.28.apk",
+    "version": "1.2.28"
   },
   "ios": {
     "build": 42,
