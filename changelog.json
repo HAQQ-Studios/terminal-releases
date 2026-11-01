@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "build": 43,
+      "version": "1.2.29",
+      "date": "2026-11-01",
+      "platforms": [
+        "ios"
+      ],
+      "notes": "Loss guard: tap a trade to open it in GMGN, sort the trades by time or by loss, and (admins) re-enable the strategy straight from the bottom of the page."
+    },
+    {
       "build": 42,
       "version": "1.2.28",
       "date": "2026-11-01",
