@@ -5,9 +5,10 @@
       "version": "1.2.30",
       "date": "2026-11-02",
       "platforms": [
-        "ios"
+        "ios",
+        "android"
       ],
-      "notes": "Sweep details now show your own split: the SOL sent and the USDC received, like the notification."
+      "notes": "Loss guard: tap a trade to open it in GMGN, sort the trades by time or by loss, and (admins) re-enable the strategy from the bottom of the page. Sweep details now show your own split: the SOL sent and the USDC received, like the notification."
     },
     {
       "build": 43,
