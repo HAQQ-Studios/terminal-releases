@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "build": 44,
+      "version": "1.2.30",
+      "date": "2026-11-02",
+      "platforms": [
+        "ios"
+      ],
+      "notes": "Sweep details now show your own split: the SOL sent and the USDC received, like the notification."
+    },
+    {
       "build": 43,
       "version": "1.2.29",
       "date": "2026-11-01",
