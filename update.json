@@ -7,9 +7,9 @@
     "version": "1.2.32"
   },
   "ios": {
-    "build": 45,
-    "notes": "Overview: win rate, trades, volume and costs now sit under Strategies. Payouts: the next sweep shows what's left to go once the empty ATAs are closed, cashback claimed and the wSOL above the kept minimum unwrapped.",
+    "build": 46,
+    "notes": "New: The next sweep shows what's left to go after claims, in one line under the amount to go.\nNew: Sweep settings & balances lists what can be claimed: empty ATAs, cashback and wSOL above the kept minimum.\nImproved: Overview shows win rate, trades, volume and costs below Strategies.\nImproved: What's new lists each change on its own line.\nRemoved: The \"Your landlord is jealous\" payout headline.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.31"
+    "version": "1.2.32"
   }
 }
