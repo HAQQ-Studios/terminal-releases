@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "build": 45,
+      "version": "1.2.31",
+      "date": "2026-11-03",
+      "platforms": [
+        "ios"
+      ],
+      "notes": "Overview: win rate, trades, volume and costs now sit under Strategies. Payouts: the next sweep shows what's left to go once the empty ATAs are closed, cashback claimed and the wSOL above the kept minimum unwrapped."
+    },
+    {
       "build": 44,
       "version": "1.2.30",
       "date": "2026-11-02",
