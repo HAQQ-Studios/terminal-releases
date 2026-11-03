@@ -5,7 +5,8 @@
       "version": "1.2.33",
       "date": "2026-11-03",
       "platforms": [
-        "ios"
+        "ios",
+        "android"
       ],
       "notes": "New: Scrubbing the Overview chart shows each strategy as it stood at that point of the day."
     },
