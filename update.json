@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 44,
-    "notes": "Loss guard: tap a trade to open it in GMGN, sort the trades by time or by loss, and (admins) re-enable the strategy from the bottom of the page. Sweep details now show your own split: the SOL sent and the USDC received, like the notification.",
-    "sha256": "25791f45864f3cafbae495d0c778bc4d736da776100f741e6b9fd773d1b8caff",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-44/HAQQ-Terminal-1.2.30.apk",
-    "version": "1.2.30"
+    "build": 46,
+    "notes": "New: The next sweep shows what's left to go after claims, in one line under the amount to go.\nNew: Sweep settings & balances lists what can be claimed: empty ATAs, cashback and wSOL above the kept minimum.\nImproved: Overview shows win rate, trades, volume and costs below Strategies.\nImproved: What's new lists each change on its own line.\nRemoved: The \"Your landlord is jealous\" payout headline.",
+    "sha256": "ebada79ab85cb0bdd86fdb443e752c0d3e704b0808e855bd667531120ce6f5c5",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-46/HAQQ-Terminal-1.2.32.apk",
+    "version": "1.2.32"
   },
   "ios": {
     "build": 45,
