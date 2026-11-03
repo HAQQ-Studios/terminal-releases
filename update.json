@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 46,
-    "notes": "New: The next sweep shows what's left to go after claims, in one line under the amount to go.\nNew: Sweep settings & balances lists what can be claimed: empty ATAs, cashback and wSOL above the kept minimum.\nImproved: Overview shows win rate, trades, volume and costs below Strategies.\nImproved: What's new lists each change on its own line.\nRemoved: The \"Your landlord is jealous\" payout headline.",
-    "sha256": "ebada79ab85cb0bdd86fdb443e752c0d3e704b0808e855bd667531120ce6f5c5",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-46/HAQQ-Terminal-1.2.32.apk",
-    "version": "1.2.32"
+    "build": 47,
+    "notes": "New: Scrubbing the Overview chart shows each strategy as it stood at that point of the day.",
+    "sha256": "7a491267562e446474c7ccfb654931a9bc98f8e4cebc6d53ad66f23d4c983f20",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-47/HAQQ-Terminal-1.2.33.apk",
+    "version": "1.2.33"
   },
   "ios": {
     "build": 47,
