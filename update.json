@@ -7,9 +7,9 @@
     "version": "1.2.30"
   },
   "ios": {
-    "build": 44,
-    "notes": "Sweep details now show your own split: the SOL sent and the USDC received, like the notification.",
+    "build": 45,
+    "notes": "Overview: win rate, trades, volume and costs now sit under Strategies. Payouts: the next sweep shows what's left to go once the empty ATAs are closed, cashback claimed and the wSOL above the kept minimum unwrapped.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.30"
+    "version": "1.2.31"
   }
 }
