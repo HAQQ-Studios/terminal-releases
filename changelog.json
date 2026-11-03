@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "build": 47,
+      "version": "1.2.33",
+      "date": "2026-11-03",
+      "platforms": [
+        "ios"
+      ],
+      "notes": "New: Scrubbing the Overview chart shows each strategy as it stood at that point of the day."
+    },
+    {
       "build": 46,
       "version": "1.2.32",
       "date": "2026-11-03",
