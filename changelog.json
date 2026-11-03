@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "build": 46,
+      "version": "1.2.32",
+      "date": "2026-11-03",
+      "platforms": [
+        "android"
+      ],
+      "notes": "New: The next sweep shows what's left to go after claims, in one line under the amount to go.\nNew: Sweep settings & balances lists what can be claimed: empty ATAs, cashback and wSOL above the kept minimum.\nImproved: Overview shows win rate, trades, volume and costs below Strategies.\nImproved: What's new lists each change on its own line.\nRemoved: The \"Your landlord is jealous\" payout headline."
+    },
+    {
       "build": 45,
       "version": "1.2.31",
       "date": "2026-11-03",
@@ -55,7 +64,7 @@
         "android",
         "ios"
       ],
-      "notes": "New: Settings → What's new lists every update."
+      "notes": "New: Settings \u2192 What's new lists every update."
     },
     {
       "build": 39,
