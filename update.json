@@ -1,10 +1,10 @@
 {
   "android": {
-    "build": 47,
-    "notes": "New: Scrubbing the Overview chart shows each strategy as it stood at that point of the day.",
-    "sha256": "7a491267562e446474c7ccfb654931a9bc98f8e4cebc6d53ad66f23d4c983f20",
-    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-47/HAQQ-Terminal-1.2.33.apk",
-    "version": "1.2.33"
+    "build": 50,
+    "notes": "Improved: Loss guard lists every trade in its window, winners included.\nFixed: Loss guard trades show the token name and close time, not just the address.",
+    "sha256": "6bdea8f70cc3f8a160b86f8ad9cb77e448f856962340d7e216e7d1242a4e8e5d",
+    "url": "https://github.com/HAQQ-Studios/terminal-releases/releases/download/android-50/HAQQ-Terminal-1.2.36.apk",
+    "version": "1.2.36"
   },
   "ios": {
     "build": 49,
