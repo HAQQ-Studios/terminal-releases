@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "build": 49,
+      "version": "1.2.35",
+      "date": "2026-11-06",
+      "platforms": [
+        "ios"
+      ],
+      "notes": "New: 72 more payout headlines, 100 in all. None repeats until every one has shown."
+    },
+    {
       "build": 48,
       "version": "1.2.34",
       "date": "2026-11-06",
