@@ -5,7 +5,8 @@
       "version": "1.2.36",
       "date": "2026-11-06",
       "platforms": [
-        "android"
+        "android",
+        "ios"
       ],
       "notes": "Improved: Loss guard lists every trade in its window, winners included.\nFixed: Loss guard trades show the token name and close time, not just the address."
     },
