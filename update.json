@@ -7,9 +7,9 @@
     "version": "1.2.36"
   },
   "ios": {
-    "build": 49,
+    "build": 50,
     "notes": "Improved: Loss guard lists every trade in its window, winners included.\nFixed: Loss guard trades show the token name and close time, not just the address.",
     "url": "https://beta.itunes.apple.com/v1/app/6824592713",
-    "version": "1.2.35"
+    "version": "1.2.36"
   }
 }
