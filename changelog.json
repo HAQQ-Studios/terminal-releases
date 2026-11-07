@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "build": 51,
+      "version": "1.2.37",
+      "date": "2026-11-07",
+      "platforms": [
+        "ios"
+      ],
+      "notes": "New: Weekly and monthly reports, sent at midday your time once the week or month closes.\nImproved: The Daily report switch in Settings is now Reports and covers all three."
+    },
+    {
       "build": 50,
       "version": "1.2.36",
       "date": "2026-11-06",
